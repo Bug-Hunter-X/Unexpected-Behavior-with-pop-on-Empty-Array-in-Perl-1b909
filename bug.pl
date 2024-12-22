@@ -1,0 +1,1 @@
+my @array = (1, 2, 3); my $last = pop @array; print "Last element: $last\n"; # Output: Last element: 3 print "Array after pop: @array\n"; # Output: Array after pop: 1 2
